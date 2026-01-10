@@ -26,7 +26,7 @@ Porting my bachelor's project into a modern, distributed C# environment.
 * **Architecture:** Microservices-ready with RabbitMQ bus.
 * **Goal:** Moving from a monolithic approach to a high-availability cloud setup.
 
-* You can find it here: 
+* You can find it here: https://github.com/0zminDev/Aroundu
 
 ### 🎮 Side Quests
 * **rusty_math**: A math library for game engines written in Rust.
