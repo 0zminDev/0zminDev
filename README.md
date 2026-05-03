@@ -23,12 +23,12 @@ I am currently laying the foundation for **Flux Creation**, my future company an
 **Systems & Game Dev:**  
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Fullstack Day Job:**  
-![Angular](https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Tools & Environment:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
