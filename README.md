@@ -28,7 +28,7 @@ I am currently laying the foundation for **Flux Creation**, my future company an
 **Fullstack Day Job:**  
 ![Angular](https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C#](https://img.shields.io/badge/C#-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Tools & Environment:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
