@@ -122,7 +122,35 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-_WakaTime stats will appear here once the `WAKATIME_API_KEY` secret is configured._
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Zig                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+
+ Last Updated on 18/06/2026 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🐍 Contribution Snake
