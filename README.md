@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:1a1b27,100:7aa2f7&text=0zminDev&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Fullstack%20.NET%20Developer&descSize=22&descColor=bb9af7&descAlignY=65" width="100%"/>
 
 <div align="center">
@@ -14,32 +12,44 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/0zminDev" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="36" width="153" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="38" height="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="38" height="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="38" height="38" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="38" height="38" />
+</div>
+
+<br/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-ozmina/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="36" />
   </a>&nbsp;&nbsp;
   <a href="mailto:0zminDev@pm.me">
     <img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" alt="ProtonMail" width="36" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/0zminDev" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="36" width="153" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="38" height="38" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="38" height="38" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="38" height="38" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="38" height="38" />
 </div>
 
 ## 📌 About Me
@@ -155,18 +165,4 @@ JavaScript               1 repo              ███░░░░░░░░�
  Last Updated on 18/06/2026 18:46:19 UTC
 <!--END_SECTION:waka-->
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0zminDev/0zminDev/output/snake.svg" alt="Contribution Snake Animation" />
-</div>
-
-## 🏙️ 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0zminDev/0zminDev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />

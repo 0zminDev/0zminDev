@@ -13,8 +13,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Must be a personal-access-token (classic, `repo` scope) — the default
-          # GITHUB_TOKEN can't call the authenticated-user API and returns 403.
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"

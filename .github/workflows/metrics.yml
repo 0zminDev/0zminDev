@@ -18,8 +18,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # A personal-access-token (classic, `repo` scope) is required so the
-          # languages plugin can see repositories in the flux-creations org.
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-languages.svg
           base: ""
