@@ -134,40 +134,43 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.99 % 
-HTML                     3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
-TypeScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+C#                       4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+HTML                     3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+TypeScript               2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+swayconfig               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 51 mins       █████████████████████░░░░   83.66 % 
-VS Code                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Claude Code              9 hrs 15 mins       ██████████████████░░░░░░░   70.94 % 
+VS Code                  2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Neovim                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               11 hrs 47 mins      █████████████████████████   100.00 % 
+Solid_Jobs               8 hrs 28 mins       ████████████████░░░░░░░░░   64.90 % 
+SolidJobs                3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Zig                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Zig                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 08/07/2026 01:02:04 UTC
+ Last Updated on 09/07/2026 01:06:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
