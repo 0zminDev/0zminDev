@@ -134,45 +134,44 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-C#                       4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Markdown                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Go                       1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-swayconfig               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+C#                       4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+TypeScript               4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Go                       1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+HTML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 46 mins      ███████████████████░░░░░░   74.57 % 
-VS Code                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Neovim                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Claude Code              13 hrs 4 mins       █████████████████████░░░░   82.90 % 
+VS Code                  2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 
 🐱‍💻 Projects: 
-SolidJobs                9 hrs 14 mins       ███████████████░░░░░░░░░░   58.56 % 
-solid-jobs-skills        2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-solid-jobs-client        1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Solid_Jobs               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+SolidJobs                5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+Solid_Jobs               5 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+solid-jobs-skills        2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+solid-jobs-client        1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+aicc                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 15/07/2026 00:57:35 UTC
+ Last Updated on 16/07/2026 01:00:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
