@@ -134,44 +134,42 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
-C#                       5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-HTML                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Swift                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+C#                       5 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.07 % 
+TypeScript               5 hrs               ████████░░░░░░░░░░░░░░░░░   32.68 % 
+HTML                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+SCSS                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 59 mins      █████████████████████░░░░   82.85 % 
-VS Code                  2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Claude Code              12 hrs 39 mins      █████████████████████░░░░   82.43 % 
+VS Code                  2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               10 hrs 46 mins      █████████████████░░░░░░░░   68.72 % 
-SolidJobs                3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-solid-jobs-client        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-solid-jobs-skills        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-career-pathfinder-ai     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Solid_Jobs               14 hrs 56 mins      ████████████████████████░   97.31 % 
+career-pathfinder-ai     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+job-scraper              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Rust                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 17/07/2026 01:02:08 UTC
+ Last Updated on 18/07/2026 01:00:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
