@@ -134,28 +134,6 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.23 % 
-TypeScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HTML                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-SCSS                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-
-🔥 Editors: 
-Claude Code              12 hrs 50 mins      ████████████████████████░   96.08 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-
-🐱‍💻 Projects: 
-Solid_Jobs               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-SolidJobs                5 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
-liftoff                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-under-construction       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Downloads                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -169,7 +147,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:00:23 UTC
+ Last Updated on 25/07/2026 01:02:24 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
