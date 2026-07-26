@@ -134,6 +134,30 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2051%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
+TypeScript               1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 21 mins       ████████████████████████░   97.53 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+
+🐱‍💻 Projects: 
+SolidJobs                5 hrs 14 mins       ██████████████░░░░░░░░░░░   54.61 % 
+Solid_Jobs               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+liftoff                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+under-construction       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Downloads                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -147,7 +171,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:02:24 UTC
+ Last Updated on 26/07/2026 01:04:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
