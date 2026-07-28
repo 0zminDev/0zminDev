@@ -134,44 +134,69 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
-TypeScript               1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+C#                       3 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.84 % 
+TypeScript               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 21 mins       ████████████████████████░   97.53 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Claude Code              7 hrs 30 mins       ████████████████████████░   96.94 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-SolidJobs                5 hrs 14 mins       ██████████████░░░░░░░░░░░   54.61 % 
-Solid_Jobs               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-liftoff                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-under-construction       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Downloads                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+SolidJobs                5 hrs 14 mins       █████████████████░░░░░░░░   67.66 % 
+Solid_Jobs               1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+0zmindevVault            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+liftoff                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+xdgforce                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 34 mins (97.83%)
+
+✍️ 4,143 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 286,684,429 Input Tokens, 683,827 Output Tokens
+
+💵 $871.52 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 79 AI Prompts
+
+Sonnet                   4,526 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,354 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C#                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Rust                     6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+C#                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 27/07/2026 01:04:54 UTC
+ Last Updated on 28/07/2026 00:59:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
