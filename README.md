@@ -134,50 +134,53 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.69 % 
-TypeScript               1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
-HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+C#                       2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+TypeScript               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 59 mins       ████████████████████████░   94.40 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Claude Code              6 hrs 50 mins       ███████████████████████░░   92.53 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               5 hrs 17 mins       █████████████████████████   100.00 % 
+Solid_Jobs               6 hrs 18 mins       █████████████████████░░░░   85.26 % 
+oferty                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (96.11%)
+⏱ AI Coding Time: 6 hrs 57 mins (94.11%)
 
-✍️ 1,234 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,232 lines written by AI, 4 lines written by hand (99.82% AI-written)
 
-🔤 79,406,316 Input Tokens, 302,761 Output Tokens
+🔤 96,474,000 Input Tokens, 408,512 Output Tokens
 
-💵 $361.59 Estimated AI Cost This Week
+💵 $410.10 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 58 AI Prompts
+🧠 17 AI Sessions, 86 AI Prompts
 
-Opus                     1,180 lines         ███████████████████░░░░░░   75.98 % 
-Sonnet                   373 lines           ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Sonnet                   1,187 lines         ████████████░░░░░░░░░░░░░   46.53 % 
+Opus                     1,180 lines         ████████████░░░░░░░░░░░░░   46.26 % 
+Haiku                    184 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 844 characters per prompt
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 597 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.45% of changed lines were hand-edited
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -193,7 +196,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:03:11 UTC
+ Last Updated on 01/08/2026 01:02:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
