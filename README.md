@@ -134,53 +134,53 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
-TypeScript               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
-HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+C#                       3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 50 mins       ███████████████████████░░   92.53 % 
-VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Claude Code              8 hrs 8 mins        ██████████████████████░░░   89.10 % 
+VS Code                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               6 hrs 18 mins       █████████████████████░░░░   85.26 % 
-oferty                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Solid_Jobs               8 hrs 2 mins        ██████████████████████░░░   88.07 % 
+oferty                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 57 mins (94.11%)
+⏱ AI Coding Time: 8 hrs 25 mins (92.27%)
 
-✍️ 2,232 lines written by AI, 4 lines written by hand (99.82% AI-written)
+✍️ 4,253 lines written by AI, 46 lines written by hand (98.93% AI-written)
 
-🔤 96,474,000 Input Tokens, 408,512 Output Tokens
+🔤 164,504,278 Input Tokens, 677,480 Output Tokens
 
-💵 $410.10 Estimated AI Cost This Week
+💵 $641.79 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 86 AI Prompts
+🧠 19 AI Sessions, 89 AI Prompts
 
-Sonnet                   1,187 lines         ████████████░░░░░░░░░░░░░   46.53 % 
-Opus                     1,180 lines         ████████████░░░░░░░░░░░░░   46.26 % 
-Haiku                    184 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Sonnet                   2,428 lines         █████████████░░░░░░░░░░░░   51.27 % 
+Opus                     2,124 lines         ███████████░░░░░░░░░░░░░░   44.85 % 
+Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
+🤖 AI-Driven — 98.93% of written lines came from AI
+📄 Detailed Prompter — average 865 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🚀 High AI Trust — 1.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -196,7 +196,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 01:02:50 UTC
+ Last Updated on 02/08/2026 01:04:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
