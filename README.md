@@ -134,7 +134,7 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2040%20mins-blue?style=flat)
 
@@ -142,45 +142,47 @@
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
-TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+C#                       3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
+TypeScript               2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+C++                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 8 mins        ██████████████████████░░░   89.10 % 
-VS Code                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Claude Code              9 hrs 3 mins        █████████████████████░░░░   85.76 % 
+VS Code                  1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               8 hrs 2 mins        ██████████████████████░░░   88.07 % 
-oferty                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Solid_Jobs               8 hrs 2 mins        ███████████████████░░░░░░   76.17 % 
+oferty                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+pid-controller-demo      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+ARM-STM32-bare-metal-exam30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 25 mins (92.27%)
+⏱ AI Coding Time: 9 hrs 20 mins (88.5%)
 
-✍️ 4,253 lines written by AI, 46 lines written by hand (98.93% AI-written)
+✍️ 4,745 lines written by AI, 49 lines written by hand (98.98% AI-written)
 
-🔤 164,504,278 Input Tokens, 677,480 Output Tokens
+🔤 203,241,998 Input Tokens, 763,572 Output Tokens
 
-💵 $641.79 Estimated AI Cost This Week
+💵 $759.30 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 89 AI Prompts
+🧠 20 AI Sessions, 98 AI Prompts
 
-Sonnet                   2,428 lines         █████████████░░░░░░░░░░░░   51.27 % 
-Opus                     2,124 lines         ███████████░░░░░░░░░░░░░░   44.85 % 
-Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Sonnet                   2,932 lines         ██████████████░░░░░░░░░░░   55.95 % 
+Opus                     2,124 lines         ██████████░░░░░░░░░░░░░░░   40.53 % 
+Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.93% of written lines came from AI
-📄 Detailed Prompter — average 865 characters per prompt
+🤖 AI-Driven — 98.98% of written lines came from AI
+📄 Detailed Prompter — average 798 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.42% of changed lines were hand-edited
+🚀 High AI Trust — 1.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -196,7 +198,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:01:26 UTC
+ Last Updated on 05/08/2026 00:59:22 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
