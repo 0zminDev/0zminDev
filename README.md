@@ -134,55 +134,54 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-TypeScript               2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-C++                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C#                       5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
+TypeScript               2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+SCSS                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 3 mins        █████████████████████░░░░   85.76 % 
-VS Code                  1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Claude Code              10 hrs 49 mins      █████████████████████░░░░   85.75 % 
+VS Code                  1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               8 hrs 2 mins        ███████████████████░░░░░░   76.17 % 
-oferty                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-pid-controller-demo      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-ARM-STM32-bare-metal-exam30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Solid_Jobs               11 hrs 1 min        ██████████████████████░░░   87.34 % 
+oferty                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+ARM-STM32-bare-metal-exam30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 20 mins (88.5%)
+⏱ AI Coding Time: 11 hrs 20 mins (89.81%)
 
-✍️ 4,745 lines written by AI, 49 lines written by hand (98.98% AI-written)
+✍️ 3,521 lines written by AI, 81 lines written by hand (97.75% AI-written)
 
-🔤 203,241,998 Input Tokens, 763,572 Output Tokens
+🔤 183,459,928 Input Tokens, 752,999 Output Tokens
 
-💵 $759.30 Estimated AI Cost This Week
+💵 $573.48 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 98 AI Prompts
+🧠 25 AI Sessions, 104 AI Prompts
 
-Sonnet                   2,932 lines         ██████████████░░░░░░░░░░░   55.95 % 
-Opus                     2,124 lines         ██████████░░░░░░░░░░░░░░░   40.53 % 
-Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Sonnet                   3,650 lines         ████████████████████████░   95.20 % 
+Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📄 Detailed Prompter — average 798 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.37% of changed lines were hand-edited
+🤖 AI-Driven — 97.75% of written lines came from AI
+📚 Verbose Prompter — average 1,731 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -198,7 +197,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 00:59:22 UTC
+ Last Updated on 06/08/2026 03:49:44 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
