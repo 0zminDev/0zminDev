@@ -134,56 +134,6 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2043%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2023%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
-TypeScript               2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-SCSS                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-
-🔥 Editors: 
-Claude Code              10 hrs 49 mins      █████████████████████░░░░   85.75 % 
-VS Code                  1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-
-🐱‍💻 Projects: 
-Solid_Jobs               11 hrs 1 min        ██████████████████████░░░   87.34 % 
-oferty                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-ARM-STM32-bare-metal-exam30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-design                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 20 mins (89.81%)
-
-✍️ 3,521 lines written by AI, 81 lines written by hand (97.75% AI-written)
-
-🔤 183,459,928 Input Tokens, 752,999 Output Tokens
-
-💵 $573.48 Estimated AI Cost This Week
-
-🧠 25 AI Sessions, 104 AI Prompts
-
-Sonnet                   3,650 lines         ████████████████████████░   95.20 % 
-Haiku                    184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.75% of written lines came from AI
-📚 Verbose Prompter — average 1,731 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.72% of changed lines were hand-edited
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -197,7 +147,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:49:44 UTC
+ Last Updated on 07/08/2026 03:29:10 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
