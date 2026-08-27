@@ -142,44 +142,44 @@
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
-HTML                     4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-TypeScript               3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+C#                       4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+TypeScript               2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+HTML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+CMake                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 29 mins      ████████████████████░░░░░   81.79 % 
-VS Code                  3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Claude Code              11 hrs 43 mins      █████████████████████░░░░   84.82 % 
+VS Code                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               17 hrs 28 mins      █████████████████████████   98.67 % 
-tuduapp                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-tttt                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Solid_Jobs               11 hrs 54 mins      ██████████████████████░░░   86.10 % 
+Code                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+tuduapp                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 23 mins (92.54%)
+⏱ AI Coding Time: 12 hrs 43 mins (91.97%)
 
-✍️ 6,792 lines written by AI, 76 lines written by hand (98.89% AI-written)
+✍️ 4,929 lines written by AI, 42 lines written by hand (99.16% AI-written)
 
-🔤 6,034,573 Input Tokens, 1,208,216 Output Tokens
+🔤 5,317,739 Input Tokens, 833,403 Output Tokens
 
-💵 $175.00 Estimated AI Cost This Week
+💵 $128.72 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 150 AI Prompts
+🧠 21 AI Sessions, 180 AI Prompts
 
-Opus                     5,257 lines         ██████████████████░░░░░░░   72.36 % 
-Sonnet                   2,008 lines         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Opus                     4,675 lines         █████████████████████░░░░   83.66 % 
+Sonnet                   913 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.89% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.97% of changed lines were hand-edited
+🤖 AI-Driven — 99.16% of written lines came from AI
+📝 Concise Prompter — average 341 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -195,7 +195,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 02:09:08 UTC
+ Last Updated on 27/08/2026 10:08:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
