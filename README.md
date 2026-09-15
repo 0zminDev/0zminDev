@@ -66,8 +66,8 @@
 <table>
   <tr>
     <td width="90" align="center" valign="top">
-      <a href="https://github.com/solid-company">
-        <img src="https://avatars.githubusercontent.com/u/82704999?v=4" width="64" height="64" alt="SOLID.Jobs" />
+      <a href="https://github.com/allegro">
+        <img src="https://avatars.githubusercontent.com/u/562236?s=200&v=4" width="64" height="64" alt="SOLID.Jobs" />
       </a>
     </td>
     <td valign="top">
@@ -90,7 +90,7 @@
       <strong>.NET Fullstack Developer</strong> ·
       <a href="https://github.com/solid-company">SOLID.Company</a>
       <br/>
-      <sub>2025 – 2026 · Poznań, Poland · <a href="https://solid.jobs">solid.jobs</a></sub>
+      <sub>2025 – Present · Poznań, Poland - Remote · <a href="https://solid.jobs">solid.jobs</a></sub>
       <br/><br/>
       Building and maintaining features across the SOLID.Jobs recruitment platform —
       backend services in <strong>.NET</strong> and a <strong>TypeScript / Angular</strong>
