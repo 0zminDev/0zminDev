@@ -158,42 +158,40 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-TypeScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-HTML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-SCSS                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   44.27 % 
+C#                       23 mins             ███████████░░░░░░░░░░░░░░   42.01 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 24 mins       ██████████████████████░░░   86.04 % 
-VS Code                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Claude Code              53 mins             ████████████████████████░   95.36 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🐱‍💻 Projects: 
-Solid_Jobs               6 hrs 13 mins       █████████████████████████   99.01 % 
-JobSpy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Solid_Jobs               55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 38 mins (89.71%)
+⏱ AI Coding Time: 53 mins (95.59%)
 
-✍️ 4,068 lines written by AI, 9 lines written by hand (99.78% AI-written)
+✍️ 537 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,000,264 Input Tokens, 287,688 Output Tokens
+🔤 208,566 Input Tokens, 46,186 Output Tokens
 
-💵 $31.26 Estimated AI Cost This Week
+💵 $6.30 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 62 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Opus                     4,196 lines         █████████████████████████   100.00 % 
+Opus                     636 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 10,577 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.33% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,425 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -209,7 +207,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 06:00:25 UTC
+ Last Updated on 03/10/2026 05:36:12 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" align="center" />
